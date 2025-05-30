@@ -1,0 +1,21 @@
+﻿  OrderNumberGame.cpp
+C:\Users\G.B\source\repos\OrderNumberGame\clsString.h(41,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\G.B\source\repos\OrderNumberGame\clsString.h(46,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\G.B\source\repos\OrderNumberGame\clsString.h(58,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\G.B\source\repos\OrderNumberGame\clsString.h(195,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\G.B\source\repos\OrderNumberGame\clsString.h(326,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\G.B\source\repos\OrderNumberGame\clsString.h(374,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\G.B\source\repos\OrderNumberGame\clsGame.h(20,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\G.B\source\repos\OrderNumberGame\clsGame.h(30,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\G.B\source\repos\OrderNumberGame\clsGame.h(31,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\G.B\source\repos\OrderNumberGame\clsGame.h(171,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\G.B\source\repos\OrderNumberGame\clsGame.h(172,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\G.B\source\repos\OrderNumberGame\clsInputValidate.h(94,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\G.B\source\repos\OrderNumberGame\clsInputValidate.h(97,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\G.B\source\repos\OrderNumberGame\clsGameScreen.h(70,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\G.B\source\repos\OrderNumberGame\clsGameScreen.h(107,83): warning C4244: 'argument': conversion from 'unsigned __int64' to 'double', possible loss of data
+C:\Users\G.B\source\repos\OrderNumberGame\clsGameScreen.h(107,57): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+C:\Users\G.B\source\repos\OrderNumberGame\clsGameScreen.h(109,81): warning C4244: 'argument': conversion from 'unsigned __int64' to 'double', possible loss of data
+C:\Users\G.B\source\repos\OrderNumberGame\clsGameScreen.h(109,55): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+C:\Users\G.B\source\repos\OrderNumberGame\clsGame.h(114): warning C4715: 'clsGame::_LodeTheLevelsNumbersFromFile': not all control paths return a value
+  OrderNumberGame.vcxproj -> C:\Users\G.B\source\repos\OrderNumberGame\x64\Debug\OrderNumberGame.exe
